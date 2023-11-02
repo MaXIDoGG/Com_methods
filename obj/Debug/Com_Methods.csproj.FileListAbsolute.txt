@@ -1,0 +1,270 @@
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojResolveAssemblyReference.cache
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.exe.config
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.exe
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\bin\Debug\Com_Methods.pdb
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Sergey\source\repos\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\alglibnet2.dll
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+D:\Наука\Книги\Численные методы\Курс лекций ПМИ Численные методы\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csprojAssemblyReference.cache
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.exe.config
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.exe
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\Com_Methods.pdb
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.dll
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.xml
+D:\Наука\Книги\Численные методы\Курс ЧМ (ПМИ)\Семестр 5\Проект\Com_Methods\Com_Methods\ExcelDataReader.pdb
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.AssemblyReference.cache
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.exe.config
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.exe
+C:\Users\Sergey\Desktop\Com_Methods\Com_Methods\Com_Methods.pdb
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.AssemblyReference.cache
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\Com_Methods.exe.config
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\Com_Methods.exe
+C:\Users\Sergey\Downloads\Com_Methods\Com_Methods\Com_Methods.pdb
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.AssemblyReference.cache
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.exe.config
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Com_Methods.exe.config
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Com_Methods.exe
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Com_Methods.pdb
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Microsoft.Win32.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\netstandard.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.AppContext.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Collections.Concurrent.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Collections.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Collections.NonGeneric.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Collections.Specialized.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ComponentModel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ComponentModel.EventBasedAsync.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ComponentModel.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ComponentModel.TypeConverter.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Console.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Data.Common.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.Contracts.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.Debug.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.Process.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.StackTrace.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.Tools.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.TraceSource.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Diagnostics.Tracing.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Drawing.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Dynamic.Runtime.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Globalization.Calendars.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Globalization.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Globalization.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.Compression.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.Compression.ZipFile.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.FileSystem.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.FileSystem.DriveInfo.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.FileSystem.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.FileSystem.Watcher.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.IsolatedStorage.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.MemoryMappedFiles.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.Pipes.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.IO.UnmanagedMemoryStream.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Linq.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Linq.Expressions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Linq.Parallel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Linq.Queryable.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Http.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.NameResolution.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.NetworkInformation.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Ping.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Requests.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Security.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.Sockets.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.WebHeaderCollection.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.WebSockets.Client.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Net.WebSockets.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ObjectModel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Reflection.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Reflection.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Reflection.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Resources.Reader.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Resources.ResourceManager.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Resources.Writer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Handles.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.InteropServices.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Numerics.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Serialization.Formatters.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Serialization.Json.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Serialization.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.Serialization.Xml.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Claims.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Cryptography.Csp.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Cryptography.Encoding.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Cryptography.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.Principal.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Security.SecureString.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Text.Encoding.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Text.Encoding.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Text.RegularExpressions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Overlapped.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Tasks.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Tasks.Parallel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Thread.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.ThreadPool.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Timer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.ValueTuple.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.ReaderWriter.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.XDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.XmlDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.XmlSerializer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.XPath.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Xml.XPath.XDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Tasks.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maksn\OneDrive\Рабочий стол\Com_methods\Com_Methods\System.Threading.Tasks.Extensions.xml
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.AssemblyReference.cache
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.SuggestedBindingRedirects.cache
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.exe.config
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.CoreCompileInputs.cache
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.csproj.CopyComplete
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Com_Methods.exe.config
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.exe
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\obj\Debug\Com_Methods.pdb
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Com_Methods.exe
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Com_Methods.pdb
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Microsoft.Win32.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\netstandard.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.AppContext.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Collections.Concurrent.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Collections.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Collections.NonGeneric.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Collections.Specialized.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ComponentModel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ComponentModel.EventBasedAsync.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ComponentModel.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ComponentModel.TypeConverter.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Console.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Data.Common.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.Contracts.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.Debug.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.FileVersionInfo.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.Process.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.StackTrace.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.TextWriterTraceListener.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.Tools.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.TraceSource.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Diagnostics.Tracing.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Drawing.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Dynamic.Runtime.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Globalization.Calendars.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Globalization.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Globalization.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.Compression.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.Compression.ZipFile.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.FileSystem.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.FileSystem.DriveInfo.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.FileSystem.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.FileSystem.Watcher.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.IsolatedStorage.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.MemoryMappedFiles.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.Pipes.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.IO.UnmanagedMemoryStream.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Linq.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Linq.Expressions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Linq.Parallel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Linq.Queryable.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Http.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.NameResolution.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.NetworkInformation.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Ping.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Requests.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Security.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.Sockets.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.WebHeaderCollection.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.WebSockets.Client.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Net.WebSockets.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ObjectModel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Reflection.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Reflection.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Reflection.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Resources.Reader.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Resources.ResourceManager.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Resources.Writer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.CompilerServices.VisualC.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Handles.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.InteropServices.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.InteropServices.RuntimeInformation.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Numerics.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Serialization.Formatters.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Serialization.Json.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Serialization.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.Serialization.Xml.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Claims.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Cryptography.Algorithms.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Cryptography.Csp.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Cryptography.Encoding.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Cryptography.Primitives.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Cryptography.X509Certificates.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.Principal.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Security.SecureString.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Text.Encoding.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Text.Encoding.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Text.RegularExpressions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Overlapped.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Tasks.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Tasks.Parallel.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Thread.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.ThreadPool.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Timer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.ValueTuple.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.ReaderWriter.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.XDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.XmlDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.XmlSerializer.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.XPath.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Xml.XPath.XDocument.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Microsoft.Bcl.AsyncInterfaces.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Microsoft.Extensions.DependencyInjection.Abstractions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.CompilerServices.Unsafe.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Tasks.Extensions.dll
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Microsoft.Bcl.AsyncInterfaces.xml
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\Microsoft.Extensions.DependencyInjection.Abstractions.xml
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Runtime.CompilerServices.Unsafe.xml
+C:\Users\maksn\OneDrive\Рабочий стол\NSTU\Com_methods\Com_Methods\System.Threading.Tasks.Extensions.xml
